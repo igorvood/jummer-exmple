@@ -16,4 +16,4 @@ pluginManagement {
 }
 
 //include(":example-app")
-include(":flow-abstraction")
+include(":jummer_1")
